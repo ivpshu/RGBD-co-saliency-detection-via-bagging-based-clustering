@@ -1,11 +1,11 @@
 # RGBD-co-saliency-detection-via-bagging-based-clustering
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This code is for "[1] H. Song, Z. Liu, Y. Xie, L. Wu and M. Huang, "RGBD Co-saliency Detection via Bagging-Based Clustering[J]," IEEE Signal Processing Letters (SPL), vol. 23, no. 12, pp. 1722-1726, Oct. 2016., and can only be used for non-comercial purpose. 
-% If you use our code, please cite [1].
-% 
-% Code Author: Hangke Song
-% Email: hksong0209@163.com
-% Date: 8/11/2016
+This code is for "[1] H. Song, Z. Liu, Y. Xie, L. Wu and M. Huang, "RGBD Co-saliency Detection via Bagging-Based Clustering[J]," IEEE Signal Processing Letters (SPL), vol. 23, no. 12, pp. 1722-1726, Oct. 2016., and can only be used for non-comercial purpose. 
+If you use our code, please cite [1].
+ 
+Code Author: Hangke Song
+Email: hksong0209@163.com
+Date: 8/11/2016
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 How to use:
